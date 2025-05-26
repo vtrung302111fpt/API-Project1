@@ -5,6 +5,30 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/GetData": {
+      "get": {
+        "tags": [
+          "GetData"
+        ],
+        "operationId": "get-data",
+        "parameters": [
+          {
+            "name": "currentPage",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 0
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/InvoiceDetail/get-invoice-detail": {
       "get": {
         "tags": [

@@ -1,5 +1,22 @@
 [
   {
+    "ContainingType": "API_Project1.Controllers.GetDataController",
+    "Method": "GetDataAsync",
+    "RelativePath": "api/GetData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "currentPage",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "get-data"
+  },
+  {
     "ContainingType": "API_Project1.Controllers.InvoiceDetailController",
     "Method": "GetInvoiceDetailAsync",
     "RelativePath": "api/InvoiceDetail/get-invoice-detail",

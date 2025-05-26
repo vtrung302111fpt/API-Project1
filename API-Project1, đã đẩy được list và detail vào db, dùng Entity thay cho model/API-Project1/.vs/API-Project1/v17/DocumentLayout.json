@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Repo Git\\API-Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|d:\\repo git\\api-project1\\api-project1\\services\\invoicedetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|solutionrelative:api-project1\\services\\invoicedetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|d:\\repo git\\api-project1\\api-project1\\services\\invoicelistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|solutionrelative:api-project1\\services\\invoicelistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|d:\\repo git\\api-project1\\api-project1\\interfaces\\iinvoicelistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|solutionrelative:api-project1\\interfaces\\iinvoicelistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|d:\\repo git\\api-project1\\api-project1\\services\\invoicedetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|solutionrelative:api-project1\\services\\invoicedetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|d:\\repo git\\api-project1\\api-project1\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|solutionrelative:api-project1\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|d:\\repo git\\api-project1\\api-project1\\entities\\invoicelistentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|solutionrelative:api-project1\\entities\\invoicelistentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|d:\\repo git\\api-project1\\api-project1\\services\\getdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|solutionrelative:api-project1\\services\\getdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|d:\\repo git\\api-project1\\api-project1\\interfaces\\iinvoicelistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|solutionrelative:api-project1\\interfaces\\iinvoicelistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6692029D-B2B0-44F2-AFA8-777A592FAA9C}|API-Project1\\API-Project1.csproj|d:\\repo git\\api-project1\\api-project1\\controllers\\getdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,25 +67,51 @@
           ]
         },
         {
-          "DockedWidth": 1231,
+          "DockedWidth": 47,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InvoiceDetailService.cs",
               "DocumentMoniker": "D:\\Repo Git\\API-Project1\\API-Project1\\Services\\InvoiceDetailService.cs",
               "RelativeDocumentMoniker": "API-Project1\\Services\\InvoiceDetailService.cs",
               "ToolTip": "D:\\Repo Git\\API-Project1\\API-Project1\\Services\\InvoiceDetailService.cs",
               "RelativeToolTip": "API-Project1\\Services\\InvoiceDetailService.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAkwHMAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAMwJYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T07:08:37.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceListEntity.cs",
+              "DocumentMoniker": "D:\\Repo Git\\API-Project1\\API-Project1\\Entities\\InvoiceListEntity.cs",
+              "RelativeDocumentMoniker": "API-Project1\\Entities\\InvoiceListEntity.cs",
+              "ToolTip": "D:\\Repo Git\\API-Project1\\API-Project1\\Entities\\InvoiceListEntity.cs",
+              "RelativeToolTip": "API-Project1\\Entities\\InvoiceListEntity.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T07:53:59.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Repo Git\\API-Project1\\API-Project1\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "API-Project1\\MappingProfile.cs",
+              "ToolTip": "D:\\Repo Git\\API-Project1\\API-Project1\\MappingProfile.cs",
+              "RelativeToolTip": "API-Project1\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T07:36:27.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IInvoiceListService.cs",
               "DocumentMoniker": "D:\\Repo Git\\API-Project1\\API-Project1\\Interfaces\\IInvoiceListService.cs",
               "RelativeDocumentMoniker": "API-Project1\\Interfaces\\IInvoiceListService.cs",
@@ -90,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GetDataService.cs",
               "DocumentMoniker": "D:\\Repo Git\\API-Project1\\API-Project1\\Services\\GetDataService.cs",
               "RelativeDocumentMoniker": "API-Project1\\Services\\GetDataService.cs",
@@ -103,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "InvoiceListController.cs",
               "DocumentMoniker": "D:\\Repo Git\\API-Project1\\API-Project1\\Controllers\\InvoiceListController.cs",
               "RelativeDocumentMoniker": "API-Project1\\Controllers\\InvoiceListController.cs",
@@ -117,25 +151,25 @@
           ]
         },
         {
-          "DockedWidth": 41,
+          "DockedWidth": 1225,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "InvoiceListService.cs",
               "DocumentMoniker": "D:\\Repo Git\\API-Project1\\API-Project1\\Services\\InvoiceListService.cs",
               "RelativeDocumentMoniker": "API-Project1\\Services\\InvoiceListService.cs",
               "ToolTip": "D:\\Repo Git\\API-Project1\\API-Project1\\Services\\InvoiceListService.cs",
               "RelativeToolTip": "API-Project1\\Services\\InvoiceListService.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAowJAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwJ8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T04:18:28.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "GetDataController.cs",
               "DocumentMoniker": "D:\\Repo Git\\API-Project1\\API-Project1\\Controllers\\GetDataController.cs",
               "RelativeDocumentMoniker": "API-Project1\\Controllers\\GetDataController.cs",
@@ -148,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IGetDataService.cs",
               "DocumentMoniker": "D:\\Repo Git\\API-Project1\\API-Project1\\Interfaces\\IGetDataService.cs",
               "RelativeDocumentMoniker": "API-Project1\\Interfaces\\IGetDataService.cs",

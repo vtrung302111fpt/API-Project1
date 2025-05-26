@@ -2,6 +2,7 @@
 using System.Text.Json;
 using API_Project1.Entities;
 using API_Project1.Interfaces;
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -13,17 +14,20 @@ namespace API_Project1.Services
         private readonly ITokenService _tokenService;
         private readonly IUserInfoService _userInfoService;
         private readonly AppDbContext _dbContext;
+        private readonly IMapper _mapper;
 
         public InvoiceListService(
             IHttpClientFactory httpClientFactory,
             ITokenService tokenService,
             IUserInfoService userInfoService,
-            AppDbContext dbContext)
+            AppDbContext dbContext,
+            IMapper mapper)
         {
             _httpClient = httpClientFactory.CreateClient();
             _tokenService = tokenService;
             _userInfoService = userInfoService;
             _dbContext = dbContext;
+            _mapper = mapper;
         }
 
         public async Task GetAllDataAsync()
@@ -151,26 +155,7 @@ namespace API_Project1.Services
                 }
 
                 // Map dữ liệu từ input entity sang entity database
-                entity.id = invoice.id;
-                entity.maHoaDon = invoice.maHoaDon;
-                entity.maLichSuFile = invoice.maLichSuFile;
-                entity.soHoaDon = invoice.soHoaDon;
-                entity.loaiHoaDon = invoice.loaiHoaDon;
-                entity.tenNCC = invoice.tenNCC;
-                entity.mstNCC = invoice.mstNCC;
-                entity.tongTien = invoice.tongTien;
-                entity.tienTruocThue = invoice.tienTruocThue;
-                entity.tienThue = invoice.tienThue;
-                entity.nhanHoaDon = invoice.nhanHoaDon;
-                entity.trangThaiPheDuyet = invoice.trangThaiPheDuyet;
-                entity.trangThaiHoaDon = invoice.trangThaiHoaDon;
-                entity.soDonHang = invoice.soDonHang;
-                entity.kiHieuMauSoHoaDon = invoice.kiHieuMauSoHoaDon;
-                entity.kiHieuHoaDon = invoice.kiHieuHoaDon;
-                entity.tinhChatHoaDon = invoice.tinhChatHoaDon;
-                entity.ngayLap = invoice.ngayLap;
-                entity.ngayNhan = invoice.ngayNhan;
-                entity.phuongThucNhap = invoice.phuongThucNhap;
+                _mapper.Map(invoice, entity);
                 //dữ liệu từ invoice được map vào entity
 
                 // Xử lý ghi chú
@@ -181,13 +166,9 @@ namespace API_Project1.Services
                         entity.ghiChu = new GhiChuEntity();
                     }
 
+                    _mapper.Map(invoice,entity);
+
                     entity.ghiChu.ghiChu_id = invoice.id;  // Foreign Key cũng là id hóa đơn
-                    entity.ghiChu.checkTrangThaiXuLy = invoice.ghiChu.checkTrangThaiXuLy;
-                    entity.ghiChu.checkTrangThaiHoaDon = invoice.ghiChu.checkTrangThaiHoaDon;
-                    entity.ghiChu.checkTenNguoiMua = invoice.ghiChu.checkTenNguoiMua;
-                    entity.ghiChu.checkDiaChiNguoiMua = invoice.ghiChu.checkDiaChiNguoiMua;
-                    entity.ghiChu.checkMstNguoiMua = invoice.ghiChu.checkMstNguoiMua;
-                    entity.ghiChu.checkHoaDonKyDienTu = invoice.ghiChu.checkHoaDonKyDienTu;
                 }
             }
 

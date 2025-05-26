@@ -41,6 +41,8 @@ builder.Services.AddScoped<IInvoiceListService, InvoiceListService>();
 builder.Services.AddScoped<IInvoiceDetailService, InvoiceDetailService>();
 builder.Services.AddScoped<IGetDataService, GetDataService>();
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("BillStoreConnection")));
+builder.Services.AddAutoMapper(typeof(MappingProfile));
+
 
 var app = builder.Build();
 

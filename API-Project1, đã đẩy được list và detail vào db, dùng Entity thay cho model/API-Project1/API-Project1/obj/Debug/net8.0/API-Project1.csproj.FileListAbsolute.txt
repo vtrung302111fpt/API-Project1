@@ -331,3 +331,4 @@ D:\Repo Git\API-Project1\API-Project1\obj\Debug\net8.0\refint\API-Project1.dll
 D:\Repo Git\API-Project1\API-Project1\obj\Debug\net8.0\API-Project1.pdb
 D:\Repo Git\API-Project1\API-Project1\obj\Debug\net8.0\API-Project1.genruntimeconfig.cache
 D:\Repo Git\API-Project1\API-Project1\obj\Debug\net8.0\ref\API-Project1.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Debug\net8.0\AutoMapper.dll

@@ -1,0 +1,166 @@
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\publish
+warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request POST https://stg-accounts-api.xcyber.vn/management/cyberid/login
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request POST https://stg-accounts-api.xcyber.vn/management/cyberid/login
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 563.4674ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 581.9037ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET https://dev-billstore.xcyber.vn/api/hddv/nguoidung/get-user-info
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET https://dev-billstore.xcyber.vn/api/hddv/nguoidung/get-user-info
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 233.644ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 233.8949ms - 200
+Fetched: UserMa = 28b91d42-c3ab-400a-b300-6c5b85c37b53, DoanhNghiepMa = 5f71bce1-f4d6-4c56-9388-69925156e0c5
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET https://dev-billstore.xcyber.vn/api/hddv-hoa-don/get-list?current=1&page=0&pageSize=10&size=10&trangThaiPheDuyet
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET https://dev-billstore.xcyber.vn/api/hddv-hoa-don/get-list?current=1&page=0&pageSize=10&size=10&trangThaiPheDuyet
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 1250.2016ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 1250.5042ms - 200
+Header doanhnghiepma: 5f71bce1-f4d6-4c56-9388-69925156e0c5, userma: 28b91d42-c3ab-400a-b300-6c5b85c37b53
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request POST https://stg-accounts-api.xcyber.vn/management/cyberid/login
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request POST https://stg-accounts-api.xcyber.vn/management/cyberid/login
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 547.3218ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 548.7998ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET https://dev-billstore.xcyber.vn/api/hddv/nguoidung/get-user-info
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET https://dev-billstore.xcyber.vn/api/hddv/nguoidung/get-user-info
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 238.3728ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 238.602ms - 200
+Fetched: UserMa = 28b91d42-c3ab-400a-b300-6c5b85c37b53, DoanhNghiepMa = 5f71bce1-f4d6-4c56-9388-69925156e0c5
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET https://dev-billstore.xcyber.vn/api/hddv-hoa-don/get-list?current=1&page=0&pageSize=10&size=10&trangThaiPheDuyet
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET https://dev-billstore.xcyber.vn/api/hddv-hoa-don/get-list?current=1&page=0&pageSize=10&size=10&trangThaiPheDuyet
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 1394.1984ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 1394.3527ms - 200
+Header doanhnghiepma: 5f71bce1-f4d6-4c56-9388-69925156e0c5, userma: 28b91d42-c3ab-400a-b300-6c5b85c37b53
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request POST https://stg-accounts-api.xcyber.vn/management/cyberid/login
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request POST https://stg-accounts-api.xcyber.vn/management/cyberid/login
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 390.6965ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 390.9245ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET https://dev-billstore.xcyber.vn/api/hddv/nguoidung/get-user-info
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET https://dev-billstore.xcyber.vn/api/hddv/nguoidung/get-user-info
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 252.437ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 252.5674ms - 200
+Fetched: UserMa = 28b91d42-c3ab-400a-b300-6c5b85c37b53, DoanhNghiepMa = 5f71bce1-f4d6-4c56-9388-69925156e0c5
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET https://dev-billstore.xcyber.vn/api/hddv-hoa-don/get-list?current=1&page=0&pageSize=10&size=10&trangThaiPheDuyet
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET https://dev-billstore.xcyber.vn/api/hddv-hoa-don/get-list?current=1&page=0&pageSize=10&size=10&trangThaiPheDuyet
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 413.866ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 414.0181ms - 200
+Header doanhnghiepma: 5f71bce1-f4d6-4c56-9388-69925156e0c5, userma: 28b91d42-c3ab-400a-b300-6c5b85c37b53
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request POST https://stg-accounts-api.xcyber.vn/management/cyberid/login
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request POST https://stg-accounts-api.xcyber.vn/management/cyberid/login
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 358.3651ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 358.4443ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET https://dev-billstore.xcyber.vn/api/hddv/nguoidung/get-user-info
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET https://dev-billstore.xcyber.vn/api/hddv/nguoidung/get-user-info
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 259.7176ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 259.7946ms - 200
+Fetched: UserMa = 28b91d42-c3ab-400a-b300-6c5b85c37b53, DoanhNghiepMa = 5f71bce1-f4d6-4c56-9388-69925156e0c5
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET https://dev-billstore.xcyber.vn/api/hddv-hoa-don/get-list?current=1&page=0&pageSize=10&size=10&trangThaiPheDuyet
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET https://dev-billstore.xcyber.vn/api/hddv-hoa-don/get-list?current=1&page=0&pageSize=10&size=10&trangThaiPheDuyet
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 348.5529ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 348.6753ms - 200
+Header doanhnghiepma: 5f71bce1-f4d6-4c56-9388-69925156e0c5, userma: 28b91d42-c3ab-400a-b300-6c5b85c37b53
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request POST https://stg-accounts-api.xcyber.vn/management/cyberid/login
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request POST https://stg-accounts-api.xcyber.vn/management/cyberid/login
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 729.8803ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 729.9672ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET https://dev-billstore.xcyber.vn/api/hddv/nguoidung/get-user-info
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET https://dev-billstore.xcyber.vn/api/hddv/nguoidung/get-user-info
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 631.7952ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 631.8937ms - 200
+Fetched: UserMa = 28b91d42-c3ab-400a-b300-6c5b85c37b53, DoanhNghiepMa = 5f71bce1-f4d6-4c56-9388-69925156e0c5
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET https://dev-billstore.xcyber.vn/api/hddv-hoa-don/get-list?current=1&page=0&pageSize=10&size=10&trangThaiPheDuyet
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET https://dev-billstore.xcyber.vn/api/hddv-hoa-don/get-list?current=1&page=0&pageSize=10&size=10&trangThaiPheDuyet
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 537.5069ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 537.6162ms - 200
+Header doanhnghiepma: 5f71bce1-f4d6-4c56-9388-69925156e0c5, userma: 28b91d42-c3ab-400a-b300-6c5b85c37b53
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request POST https://stg-accounts-api.xcyber.vn/management/cyberid/login
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request POST https://stg-accounts-api.xcyber.vn/management/cyberid/login
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 362.6931ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 362.8069ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET https://dev-billstore.xcyber.vn/api/hddv/nguoidung/get-user-info
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET https://dev-billstore.xcyber.vn/api/hddv/nguoidung/get-user-info
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 208.4454ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 208.5788ms - 200
+Fetched: UserMa = 28b91d42-c3ab-400a-b300-6c5b85c37b53, DoanhNghiepMa = 5f71bce1-f4d6-4c56-9388-69925156e0c5
+info: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET https://dev-billstore.xcyber.vn/api/hddv-hoa-don/get-list?current=1&page=0&pageSize=10&size=10&trangThaiPheDuyet
+info: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET https://dev-billstore.xcyber.vn/api/hddv-hoa-don/get-list?current=1&page=0&pageSize=10&size=10&trangThaiPheDuyet
+info: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 534.7914ms - 200
+info: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 534.9819ms - 200
+Header doanhnghiepma: 5f71bce1-f4d6-4c56-9388-69925156e0c5, userma: 28b91d42-c3ab-400a-b300-6c5b85c37b53
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...

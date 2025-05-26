@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Button</title>
+</head>
+<body>
+    <button onclick="login()">Log in</button>
+    <!--<div id="result"></div>-->
+    <button onclick="get_user_info()">Get user info (no Login needed)</button>
+    <button onclick="get_invoice_list()">Get invoice list (no Login needed)</button>
+
+    <script>
+        async function login() {
+            try {
+                const response = await fetch('https://localhost:44322/api/Token/get-token', {
+                    method: 'POST'
+                });
+                if (response.ok) {
+                    const data = await response.text();
+                    console.log('Success:\n' + data);
+                } else {
+                    const errorText = await response.text();
+                    console.log(`Failed (${response.status}): ${errorText}`);
+                }
+            } catch (error) {
+                console.errot('Error: ' + error);
+            }
+        }
+        async function get_user_info() {
+            try {
+                const response = await fetch('https://localhost:44322/api/UserInfo/get-user-info', {
+                    method: 'GET'
+                });
+
+                if (response.ok) {
+                    const data = await response.text();
+                    console.log('Success:\n' + data);
+                } else {
+                    const errorText = await response.text();
+                    console.log(`Failed (${response.status}): ${errorText}`);
+                }
+            } catch (error) {
+                console.errot('Error: ' + error);
+            }
+
+        }
+        async function get_invoice_list() {
+            try {
+                const response = await fetch('https://localhost:44322/api/InvoiceList', {
+                    method: 'GET'
+                });
+
+                if (response.ok) {
+                    const data = await response.text();
+                    console.log('Success:\n' + data);
+                } else {
+                    const errorText = await response.text();
+                    console.log(`Failed (${response.status}): ${errorText}`);
+                }
+            } catch (error) {
+                console.errot('Error: ' + error);
+            }
+        }
+        //async function
+    </script>
+</body>
+</html>

@@ -1,0 +1,246 @@
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\web.config
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\appsettings.Development.json
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\appsettings.json
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.staticwebassets.endpoints.json
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.exe
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.deps.json
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.runtimeconfig.json
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.pdb
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.csproj.AssemblyReference.cache
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.AssemblyInfoInputs.cache
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.AssemblyInfo.cs
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\scopedcss\bundle\API-Project1.styles.css
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.build.json
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.development.json
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.API-Project1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.API-Project1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.build.API-Project1.props
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.API-Project1.props
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.API-Project1.props
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.pack.json
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\API-Proj.E8A615D4.Up2Date
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\refint\API-Project1.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.pdb
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.genruntimeconfig.cache
+D:\Visual Studio\API-Project\API-Project1\API-Project1\obj\Release\net8.0\ref\API-Project1.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Azure.Core.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Azure.Identity.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Identity.Client.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\System.ClientModel.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\System.Diagnostics.EventLog.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\System.Memory.Data.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Visual Studio\API-Project\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\web.config
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\appsettings.Development.json
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\appsettings.json
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.staticwebassets.endpoints.json
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.exe
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.deps.json
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.runtimeconfig.json
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.pdb
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Azure.Core.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Azure.Identity.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Identity.Client.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\System.ClientModel.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\System.Diagnostics.EventLog.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\System.Memory.Data.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.csproj.AssemblyReference.cache
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.AssemblyInfoInputs.cache
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.AssemblyInfo.cs
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.csproj.CoreCompileInputs.cache
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.MvcApplicationPartsAssemblyInfo.cs
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\scopedcss\bundle\API-Project1.styles.css
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.build.json
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.development.json
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.API-Project1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.API-Project1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.build.API-Project1.props
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.API-Project1.props
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.API-Project1.props
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.pack.json
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\API-Proj.E8A615D4.Up2Date
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\refint\API-Project1.dll
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.pdb
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.genruntimeconfig.cache
+D:\Repo Git\ApiDemo-main\ApiDemo-main\API_PROJECT, đã truyền được hết data vào database\API-Project1\API-Project1\obj\Release\net8.0\ref\API-Project1.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\web.config
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\appsettings.Development.json
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\appsettings.json
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.staticwebassets.endpoints.json
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.exe
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.deps.json
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.runtimeconfig.json
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\API-Project1.pdb
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Azure.Core.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Azure.Identity.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Identity.Client.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\System.ClientModel.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\System.Diagnostics.EventLog.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\System.Memory.Data.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Repo Git\API-Project1\API-Project1\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.csproj.AssemblyReference.cache
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.AssemblyInfoInputs.cache
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.AssemblyInfo.cs
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.csproj.CoreCompileInputs.cache
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.MvcApplicationPartsAssemblyInfo.cs
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\scopedcss\bundle\API-Project1.styles.css
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.build.json
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.development.json
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.API-Project1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.API-Project1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.build.API-Project1.props
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.API-Project1.props
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.API-Project1.props
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.pack.json
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\API-Proj.E8A615D4.Up2Date
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.dll
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\refint\API-Project1.dll
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.pdb
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\API-Project1.genruntimeconfig.cache
+D:\Repo Git\API-Project1\API-Project1\obj\Release\net8.0\ref\API-Project1.dll

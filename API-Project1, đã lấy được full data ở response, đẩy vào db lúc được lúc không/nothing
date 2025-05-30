@@ -1,0 +1,160 @@
+response đang trả ra 3061 dòng bản ghi
+từ 0 đến 999: bắt đầu từ 37523 tới 35299
+từ 1000 đến 1999: bắt đầu từ 37523 tới 25299
+từ 2000 tới 3061: bắt đầu 25294 tới 20359
+
+
+
+doanhnghiepma: 5f71bce1-f4d6-4c56-9388-69925156e0c5
+userma: 28b91d42-c3ab-400a-b300-6c5b85c37b53
+
+
+Error: The instance of entity type 'InvoiceListEntity' cannot be tracked because another instance with the key value '{id: 30350}' is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached.
+
+Error: The instance of entity type 'InvoiceListEntity' cannot be tracked because another instance with the key value '{id: 30923}' is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached.
+
+
+Mỗi lần bị một id khác nhau, lỗi do lượng dữ liệu đẩy vào quá lớn
+
+
+- Thêm/Bỏ AsNoTracking(): không được
+- thêm .ghiChu thành _mapper.Map(invoice.ghiChu, entity.ghiChu); cho bảng GHI_CHU: không được 
+- CreateMap<InvoiceListEntity, InvoiceListEntity>()
+    .ForMember(dest => dest.ghiChu, opt => opt.Ignore());  thay vào MappingProfile, kết hợp với thêm .ghiChu như trên: không được
+- Thêm Dto: Không được
+
+public async Task SaveListToDatabaseAsync(List<InvoiceListDto> invoices)
+{
+    foreach (var invoiceDto in invoices)
+    {
+        var entity = await _dbContext.INVOICE_LIST
+            .Include(i => i.ghiChu)
+            .FirstOrDefaultAsync(i => i.id == invoiceDto.id);
+
+        if (entity == null)
+        {
+            entity = new InvoiceListEntity();
+            _dbContext.INVOICE_LIST.Add(entity);
+        }
+
+        _mapper.Map(invoiceDto, entity);
+
+        if (invoiceDto.ghiChu != null)
+        {
+            if (entity.ghiChu == null)
+                entity.ghiChu = new GhiChuEntity();
+
+            _mapper.Map(invoiceDto.ghiChu, entity.ghiChu);
+            entity.ghiChu.ghiChu_id = invoiceDto.id;
+        }
+    }
+
+    await _dbContext.SaveChangesAsync();
+}
+
+//của MappingProfile
+public class MappingProfile : Profile
+{
+    public MappingProfile()
+    {
+        // DTO -> Entity
+        CreateMap<InvoiceListDto, InvoiceListEntity>();
+        CreateMap<GhiChuDto, GhiChuEntity>();
+
+        // Optional: Entity -> DTO (nếu bạn cần map ngược)
+        CreateMap<InvoiceListEntity, InvoiceListDto>();
+        CreateMap<GhiChuEntity, GhiChuDto>();
+    }
+}
+
+public class InvoiceListDto
+{
+    public int id { get; set; }
+    public string maHoaDon { get; set; }
+    public string maLichSuFile { get; set; }
+    public string soHoaDon { get; set; }
+    public int loaiHoaDon { get; set; }
+    public string tenNCC { get; set; }
+    public string mstNCC { get; set; }
+    public string tongTien { get; set; }
+    public string tienTruocThue { get; set; }
+    public string tienThue { get; set; }
+    public string? nhanHoaDon { get; set; }
+    public int trangThaiPheDuyet { get; set; }
+    public int trangThaiHoaDon { get; set; }
+    public string? soDonHang { get; set; }
+    public int kiHieuMauSoHoaDon { get; set; }
+    public string kiHieuHoaDon { get; set; }
+    public int tinhChatHoaDon { get; set; }
+    public DateTime? ngayLap { get; set; }
+    public DateTime? ngayNhan { get; set; }
+    public int phuongThucNhap { get; set; }
+
+    public GhiChuDto? ghiChu { get; set; }
+}
+
+public class GhiChuDto
+{
+    public int ghiChu_id { get; set; }  // Bằng với `id` của hóa đơn
+    public int checkTrangThaiXuLy { get; set; }
+    public int? checkTrangThaiHoaDon { get; set; }
+    public int? checkTenNguoiMua { get; set; }
+    public int? checkDiaChiNguoiMua { get; set; }
+    public int? checkMstNguoiMua { get; set; }
+    public int? checkHoaDonKyDienTu { get; set; }
+}
+
+
+
+
+- Chia nhỏ lượng dữ liệu ra làm các batch: response thì đẩy đủ nhưng đẩy vào thì bị thiếu bản ghi, phải chạy lại liên tục cho đến khi đủ
+public async Task SaveListToDatabaseAsync(List<InvoiceListEntity> invoices)
+{
+    int batchSize = 100; // hoặc 200, 500 tùy bạn
+    for (int i = 0; i < invoices.Count; i += batchSize)
+    {
+        var batch = invoices.Skip(i).Take(batchSize).ToList();
+
+        foreach (var invoice in batch)
+        {
+            var entity = await _dbContext.INVOICE_LIST
+                .Include(i => i.ghiChu)
+                .FirstOrDefaultAsync(i => i.id == invoice.id);
+
+            if (entity == null)
+            {
+                entity = new InvoiceListEntity();
+                _dbContext.INVOICE_LIST.Add(entity);
+            }
+
+            _mapper.Map(invoice, entity);
+
+            if (invoice.ghiChu != null)
+            {
+                if (entity.ghiChu == null)
+                    entity.ghiChu = new GhiChuEntity();
+
+                _mapper.Map(invoice, entity);
+
+                entity.ghiChu.ghiChu_id = invoice.id;
+            }
+        }
+
+        await _dbContext.SaveChangesAsync();
+        _dbContext.ChangeTracker.Clear(); // Clear tracking để tránh lỗi và giảm bộ nhớ
+    }
+}
+
+public List<InvoiceListEntity> ConvertJsonToInvoiceList(JsonArray allInvoices)
+{
+    var options = new JsonSerializerOptions
+    {
+        PropertyNameCaseInsensitive = true,
+    };
+
+    // Convert JsonArray -> string JSON -> deserialize
+    string jsonString = allInvoices.ToJsonString(); // or allInvoices.ToString()
+    return JsonSerializer.Deserialize<List<InvoiceListEntity>>(jsonString, options);
+}
+
+ 
